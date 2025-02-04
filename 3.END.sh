@@ -1,0 +1,2 @@
+scancel -u $USER
+
